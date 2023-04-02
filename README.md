@@ -11,7 +11,7 @@
   
   
 ### :technologist: About Me :
- I am a Junior Full Stack Developer currently learning **Node.js, React.js**
+ I am a Junior Full Stack Web Developer currently learning **Node.js, React.js**
  <br>
                                                                                            
  Programming Languages: HTML5 , CSS3 , BOOTSTRAP ,JAVASCRIPT , JAVA .<br>
