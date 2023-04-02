@@ -14,7 +14,7 @@
  I am a Junior Full Stack Developer currently learning **Node.js, React.js**
  <br>
                                                                                            
- Programming Languages: HTML5 , CSS3 , BOOTSTRAP ,JAVASCRIPT , JAVA .
+ Programming Languages: HTML5 , CSS3 , BOOTSTRAP ,JAVASCRIPT , JAVA .<br>
                                                                                            🌐 Languages : English,Hindi
                                                                                            <HR>
                                                                                            
