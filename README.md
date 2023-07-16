@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-<h1 align="center">Hello there, I'm Vipin Goyal !</h1>
+<h1 align="center">Hello there, I'm Vipin Goyal!</h1>
 <h3 align="center">Collaborate, create, and code with me on Github !</h3>
 <img src="https://user-images.githubusercontent.com/118294368/229310224-18583544-7ea0-4618-856c-2f5e7b24600b.png" alt="description_of_image" align="right"  width=400">
 
