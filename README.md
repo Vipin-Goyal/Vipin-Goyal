@@ -3,6 +3,8 @@
 
 <h1 align="center">Hello there, I'm Vipin Goyal!</h1>
 <h3 align="center">Collaborate, create, and code with me on Github !</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vipin-Goyal&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <img src="https://user-images.githubusercontent.com/118294368/229310224-18583544-7ea0-4618-856c-2f5e7b24600b.png" alt="description_of_image" align="right"  width=400">
 
 <!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
